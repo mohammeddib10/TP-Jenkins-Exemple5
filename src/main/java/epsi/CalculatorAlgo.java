@@ -23,7 +23,7 @@ public final class CalculatorAlgo {
      * @return the result of a * b
      */
     public static int multiply(int a, int b) {
-        return 0;
+        return a * b;
     }
 
     private CalculatorAlgo() {
